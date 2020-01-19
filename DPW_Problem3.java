@@ -2,7 +2,10 @@ package com.guru;
 
 import java.util.*;
 import java.util.PriorityQueue;
-
+/*
+ * 3: Top IP Addresses: You own a public API endpoint. You have a stream of IP addresses from where you are getting the API hits. At any point of time you need to return the top 20 IP addresses that are making maximum number of hits. Explain and write pseudo code.
+ *  Will your implementation change if you need to write top 30 IP addresses.
+ * */
 public class DPW_Problem3 {
 	class Loc{
 		String ip;
