@@ -1,2 +1,2 @@
-# DPW
-Solution for DPW Hackathon
+# DP World
+Solution for World Hackathon
